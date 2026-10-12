@@ -22,7 +22,7 @@
 - `assets/` — figures and visualizations used in the article
 - `slides/` — slide deck source (PDF/PPT)
 - `video/` — recorded 10–15 minute presentation
-- `experiments/` — hands-on demo code (e.g., autoencoder vs classical baseline)
+- `experiments/` — experiment code (autoencoder vs Isolation Forest comparison)
 
 ## About this project
 
