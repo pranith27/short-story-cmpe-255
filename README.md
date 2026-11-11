@@ -8,7 +8,7 @@ A short story on a current survey paper in data mining and machine learning: 180
 
 - **Source paper:** https://arxiv.org/pdf/2503.13195v1
 - **Medium article:** https://medium.com/@pranithvarma.234/deep-learning-changed-anomaly-detection-the-hard-part-is-still-the-data-f5408c0ca2a4
-- **Slides (view online):** https://drive.google.com/file/d/1rhRWB7bvyOBENjnixOmv1nHqsQEXARIc/view?usp=sharing
+- **PPT Slides :** https://drive.google.com/file/d/1rhRWB7bvyOBENjnixOmv1nHqsQEXARIc/view?usp=sharing
 - **Video:** _to be added_
 
 ## About this assignment
