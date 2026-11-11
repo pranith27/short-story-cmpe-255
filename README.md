@@ -8,8 +8,7 @@ A short story on the survey paper below: 180+ deep-learning anomaly detection st
 
 - **Source paper:** https://arxiv.org/abs/2503.13195
 - **Medium article:** https://medium.com/@pranithvarma.234/deep-learning-changed-anomaly-detection-the-hard-part-is-still-the-data-f5408c0ca2a4
-- **Slides (view online):** https://drive.google.com/file/d/1RBkYQbz-8amTU-DYWbHW1eyqYd3fdyLA/view?usp=sharing
-- **SlideShare:** _to be added_
+- **Slides (view online):** https://drive.google.com/file/d/1rhRWB7bvyOBENjnixOmv1nHqsQEXARIc/view?usp=sharing
 - **Video:** _to be added_
 
 ## Contents
@@ -17,7 +16,7 @@ A short story on the survey paper below: 180+ deep-learning anomaly detection st
 - `figures/` — all 6 diagrams used in the slides and the article.
 - `medium-article/` — the full Medium article (.md and .docx), with figures.
 - `research-paper/` — the survey paper: *Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey* (Huang et al., arXiv:2503.13195v1).
-- `ppt/` — the 18-slide deck (.pptx). The full speaking script is in each slide's Speaker Notes.
+- `ppt/` — the 18-slide deck (.pptx and .pdf). The full speaking script is in each slide's Speaker Notes.
 
 ## Headline findings
 
