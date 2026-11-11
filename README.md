@@ -2,14 +2,14 @@
 
 **Pranith Varma Pakalapati — San Jose State University, CMPE 255 Short Story**
 
-A short story on a current survey paper in data mining and machine learning: 180+ deep-learning anomaly detection studies, organised into reconstruction-based, prediction-based, and hybrid methods — with applications, comparison tables, and open research directions.
+A short story on a current survey paper in data mining and machine learning: 180+ deep-learning anomaly detection studies (2019–2024), organised into reconstruction-based, prediction-based, and hybrid methods — with applications, comparison tables, and open research directions.
 
 ## Links
 
-- **Source paper:** https://arxiv.org/pdf/2503.13195v1
+- **Source paper:** https://arxiv.org/abs/2503.13195
 - **Medium article:** https://medium.com/@pranithvarma.234/deep-learning-changed-anomaly-detection-the-hard-part-is-still-the-data-f5408c0ca2a4
-- **PPT Slides :** https://drive.google.com/file/d/1rhRWB7bvyOBENjnixOmv1nHqsQEXARIc/view?usp=sharing
-- **Video:** _to be added_
+- **Slides (view online):** https://drive.google.com/file/d/1rhRWB7bvyOBENjnixOmv1nHqsQEXARIc/view?usp=sharing
+- **Video:** https://youtu.be/TxQmFk3l858
 
 ## About this assignment
 
@@ -77,6 +77,9 @@ Hybrids are the point, not a compromise: deep learning supplies the features, a 
 - `research-paper/` — the survey paper: *Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey* (Huang et al., arXiv:2503.13195v1).
 - `ppt/` — the 18-slide deck (.pptx and .pdf). The full speaking script is in each slide's Speaker Notes — about 3,100 words, roughly 19–20 minutes at a natural pace.
 
+## How to present it
+
+Open the deck in `ppt/` and use Presenter View: the script for each slide is in its Speaker Notes, with per-slide timings and [Pause] / [Point] cues. If you are running long, shorten slides 4 and 13 first — they are context, not core content. Do not rush slides 9, 14, or 15.
 
 ## References
 
