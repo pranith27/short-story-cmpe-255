@@ -12,10 +12,12 @@ A short story on the survey paper below: 180+ deep-learning anomaly detection st
 - **SlideShare:** _to be added_
 - **Video:** _to be added_
 
-## Files
+## Contents
 
-- `Deep_Learning_Anomaly_Detection_Short_Story.pptx` — 18-slide deck (16:9). The full speaking script is in each slide's Speaker Notes.
 - `figures/` — all 6 diagrams used in the slides and the article.
+- `medium-article/` — the full Medium article (.md and .docx), with figures.
+- `research-paper/` — the survey paper: *Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey* (Huang et al., arXiv:2503.13195v1).
+- `ppt/` — the 18-slide deck (.pptx). The full speaking script is in each slide's Speaker Notes.
 
 ## Headline findings
 
