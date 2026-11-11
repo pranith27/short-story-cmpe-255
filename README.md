@@ -2,7 +2,7 @@
 
 **Pranith Varma Pakalapati — San Jose State University, CMPE 255 Short Story**
 
-A short story on a current survey paper in data mining and machine learning: 180+ deep-learning anomaly detection studies (2019–2024), organised into reconstruction-based, prediction-based, and hybrid methods — with applications, comparison tables, and open research directions.
+A short story on a current survey paper in data mining and machine learning: 180+ deep-learning anomaly detection studies, organised into reconstruction-based, prediction-based, and hybrid methods — with applications, comparison tables, and open research directions.
 
 ## Links
 
